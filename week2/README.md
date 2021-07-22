@@ -9,6 +9,6 @@ This is solution of the assignments given in week 2
 
 3.  Automation of Turtlebot <br>
   (i) Publisher - radius_talker.py <br>
- (ii) Service - computer_ang_vel.py <br>
-(iii) turtlebot automation - turtlebot_move.py <br>
+ (ii) Service - compute_ang_vel.py <br>
+(iii) turtlebot automation - turtle_move.py <br>
     
