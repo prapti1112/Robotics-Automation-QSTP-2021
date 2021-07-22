@@ -10,6 +10,7 @@ project(week2)
 find_package(catkin REQUIRED
   rospy
   std_msgs
+  geometry_msgs
   message_generation
 )
 
@@ -165,6 +166,7 @@ catkin_install_python(PROGRAMS
   scripts/helloWorldListener.py
   scripts/radius_talker.py
   scripts/compute_ang_vel.py
+  scripts/turtle_move.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
