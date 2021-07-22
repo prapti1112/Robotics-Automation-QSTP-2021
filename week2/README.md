@@ -7,8 +7,8 @@ This is solution of the assignments given in week 2
 
 2.  Client - Service Model
 
-3.  Automation of Turtlebot 
-  (i) Publisher - radius_talker.py
- (ii) Service - computer_ang_vel.py 
-(iii) turtlebot automation - turtlebot_move.py
+3.  Automation of Turtlebot <br>
+  (i) Publisher - radius_talker.py <br>
+ (ii) Service - computer_ang_vel.py <br>
+(iii) turtlebot automation - turtlebot_move.py <br>
     
